@@ -70,7 +70,7 @@ LoopScanLines:
     LDX #30                 ; counter for 30 scanlines
 
 LoopOverscan:
-    STA WSYNC               ; wait fot the nexr scanline
+    STA WSYNC               ; wait fot the next scanline
     DEX                     ; X--
     BNE LoopOverscan        ; loop while (x != 0)
 
