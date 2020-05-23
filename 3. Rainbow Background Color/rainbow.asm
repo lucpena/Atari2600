@@ -55,7 +55,7 @@ LoopVBlank:
 
 LoopScanLines:
     STX COLUBK              ; set the background color
-    STA WSYNC               ; wait for the nect line
+    STA WSYNC               ; wait for the next line
     DEX                     ; X--
     BNE LoopScanLines       ; loop while X != 0
 
