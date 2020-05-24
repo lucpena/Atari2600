@@ -31,6 +31,6 @@ MemLoop:
 ;               Fill ROM size to exactly 4KB              ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-    ORG $FFFC       ; force a go to the position $FFFX (atari reads here what to do after a reset)
+    ORG $FFFC       ; force a go to the position $FFFC (atari reads here what to do after a reset)
     .word Start     ; reset vector at $FFFC (where program starts)
     .word Start     ; interrupt vector at $FFFE (unused in VCS)
