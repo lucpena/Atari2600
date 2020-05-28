@@ -90,7 +90,7 @@ DivideLoop:
 ;;      Generate the TIA output of 37 lines of VBLANK       ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-    REPEAT 35               ; 35 because we already called 2 WSYNC abovo
+    REPEAT 35               ; 35 because we already called 2 WSYNC above
         STA WSYNC
     REPEND
 
