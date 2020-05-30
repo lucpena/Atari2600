@@ -1,5 +1,5 @@
-# Output
+# Bomber Game
 
-In this program, te user can control the player using the arrow keys, that are emulated as the joystik in the Stella emulator. The output of "joystickinput.asm" is:
+This is a small game made for the Atari. You control the Jet and need to destroy the enemy Bombers. Each bomber destroyed you score a point, and each bomber passed, they score a point.
 
 ![Bomber Gamer GIF](https://github.com/lucpena/Atari2600/blob/master/9.%20Bomber%20(Game)/ss/bomber.gif)
