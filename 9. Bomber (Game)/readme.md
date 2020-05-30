@@ -16,5 +16,5 @@ This is a small game made for the Atari. You control the Jet and need to destroy
 
 CONTROLS:
 
-ARROW KEYS -> Control the Jet
-SPACE -> Shoot
+- ARROW KEYS -> Control the Jet
+- SPACE -> Shoot
