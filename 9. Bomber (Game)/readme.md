@@ -10,7 +10,7 @@ This is a small game made for the Atari. You control the Jet and need to destroy
 
 2. CTRL + A to select everything, than CTRL + C
 
-3. Go to the [8BitWorkshop](https://8bitworkshop.com/v3.5.1). Here we got a editor with a live emulator together. Paste the code with CTRL + V there.
+3. Go to the [8BitWorkshop](https://8bitworkshop.com/v3.5.1). Here we got añ editor with a live emulator together. Paste the code with CTRL + V there.
 
 4. Click in the emulator to play and activate the sound.
 
