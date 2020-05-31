@@ -12,7 +12,7 @@ This is a small game made for the Atari. You control the Jet and need to destroy
 
 3. Go to the [8BitWorkshop](https://8bitworkshop.com/v3.5.1). Here we got an editor with a live emulator together. Select all the code there (CTRL + A) than paste the code (CTRL + V).
 
-4. Click in the emulator to play and activate the sound.
+4. Click in the emulator screen to play and activate the sound.
 
 CONTROLS:
 
